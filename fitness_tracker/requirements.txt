@@ -1,0 +1,13 @@
+Django>=4.2
+
+# REST framework and authentication
+ djangorestframework
+djongo
+django-allauth
+dj-rest-auth
+djangorestframework-simplejwt
+django-redis
+mongoengine
+pytest
+pytest-django
+python-dotenv 
